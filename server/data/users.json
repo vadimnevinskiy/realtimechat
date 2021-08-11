@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Эрик",
+      "nickname": "",
+      "available": false,
+      "avatar": "1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Vadim",
+      "nickname": "",
+      "available": true,
+      "avatar": "2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nadja",
+      "nickname": "",
+      "available": true,
+      "avatar": "3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Vera",
+      "nickname": "",
+      "available": true,
+      "avatar": "4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sveta",
+      "nickname": "",
+      "available": true,
+      "avatar": "5.jpg"
+    }
+  ]
+}
